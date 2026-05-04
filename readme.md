@@ -143,10 +143,6 @@ Abrí `operaciones.c`. Encontrá la función `multiplicar` y reemplazá el cuerp
 int multiplicar(int a, int b) {
     return a * b;
 }
-<<<<<<< HEAD
-=======
-
->>>>>>> origin/feature/conflicto-demo
 ```
 
 Acordate de sacar el `(void)a; (void)b;` también, ya no hace falta.
@@ -291,7 +287,7 @@ c) Para que el historial de commits sea más corto y lineal
 d) Porque GitHub Classroom lo requiere para la corrección automática
 
 ```
-RESPUESTA_P1= SI
+RESPUESTA_P1=SI
 ```
 
 ---
