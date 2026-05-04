@@ -575,9 +575,6 @@ int esPar(int n) {
 }
 ```
 
-- `<<<<<<< HEAD` marca el inicio de **tu versión** (la de main)
-- `=======` separa las dos versiones
-- `>>>>>>> origin/feature/conflicto-demo` marca el fin de **la versión entrante**
 
 ---
 
@@ -591,7 +588,6 @@ int esPar(int n) {
 }
 ```
 
-Asegurate de que no quede ningún `<<<<<<<`, `=======` ni `>>>>>>>` en el archivo.
 
 Compilá para verificar:
 
